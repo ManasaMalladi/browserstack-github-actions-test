@@ -2,10 +2,10 @@ name: 'BrowserStack Actions'
 description: 'Setup BrowserStack Test Environment'
 inputs:
   username:
-    description: 'BrowserStack Username'
+    description: 'manasamalladi_PoAw54'
     required: true
   access-key:
-    description: 'BrowserStack Access Key'
+    description: 'dLBEdUUxbXwsKSnsQxMC'
     required: true
   build-name:
     description: 'Build name for the tests'
